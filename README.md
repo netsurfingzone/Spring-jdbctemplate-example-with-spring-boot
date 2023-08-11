@@ -1,7 +1,7 @@
 # Spring-jdbctemplate-example-with-spring-boot
 Spring jdbctemplate example with spring boot
 
-https://www.netsurfingzone.com/spring-boot/spring-jdbctemplate-example-with-spring-boot/
+https://www.javatute.com/spring-boot/spring-jdbctemplate-example-with-spring-boot/
 
 This tutorial covers below points.
 
